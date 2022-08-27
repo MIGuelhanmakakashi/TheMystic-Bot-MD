@@ -17,8 +17,8 @@ global.owner = [
   ['5219993404349'],
   ['5219996125657']
 ] 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['573043512341'] 
+global.prems = ['573043512341'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
